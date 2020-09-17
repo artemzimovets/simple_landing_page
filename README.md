@@ -1,4 +1,4 @@
-<h1>homework8</h1>
+<h1>Startup page</h1>
 <img src="img/task/about.png">
 <h2>Mobile screen</h2>
 <img src="img/task/mobile.jpg">
